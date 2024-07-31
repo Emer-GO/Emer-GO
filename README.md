@@ -1,16 +1,13 @@
-## Hi there 👋
+<div id="usuario">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hola 👋, Soy Emerson</h1></summary>
+  </ul>
+</div>
 
-<!--
-**Emer-GO/Emer-GO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Sobre mi </h2>
+Desarrollo de aplicaciones Web
 
-Here are some ideas to get you started:
+- 🌱 Actualmente estoy aprendiendo **Backend PHP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 No dudes en comunicarte conmigo **er58933@gmail.com**
+</p>        
